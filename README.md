@@ -1,4 +1,4 @@
 # cucumber-test
-![image](https://user-images.githubusercontent.com/31069486/116643653-ebdf8a80-a947-11eb-9d90-539941f1eaa4.png)
+![image](https://user-images.githubusercontent.com/31069486/116643716-0dd90d00-a948-11eb-9c3e-242a7f8c76e9.png)
 
 aprendizado sobre testes de software utilizando cucumber + js
