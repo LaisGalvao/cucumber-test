@@ -6,8 +6,8 @@ function isItFriday(today) {
   return 'Yes!';
 }
 
-Given('today is Sunday', function () {
-  this.today = 'Sunday';
+Given('today is Friday', function () {
+  this.today = 'Friday';
 });
 
 When('I ask whether it\'s Friday yet', function () {
