@@ -3,7 +3,7 @@ const { Given, When, Then } = require('@cucumber/cucumber');
 
 
 function isItFriday(today) {
-  return 'Nope';
+  return 'Yes!';
 }
 
 Given('today is Sunday', function () {
